@@ -1,6 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
+import "bootstrap/dist/css/bootstrap.min.css";
+
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -19,3 +21,4 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 
 ReactDOM.createRoot(document.getElementById('root')).render( <App />)
+
