@@ -13,7 +13,7 @@ export const NavBar = () => {
   className="brand d-flex align-items-center"
 >
   <img
-    src={"/src/assets/logo.jpg"}
+    src={"/assets/logo.jpg"}
     className="navbar-logo me-2"
   />
   Pastelería

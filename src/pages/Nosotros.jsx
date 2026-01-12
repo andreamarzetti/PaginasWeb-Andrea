@@ -25,7 +25,7 @@ export default function Nosotros() {
         </div>
 
         <div className="nosotros-image">
-          <img src="/src/assets/torta1.jpg" alt="Pastelería artesanal" />
+          <img src="/assets/torta1.jpg" alt="Pastelería artesanal" />
         </div>
       </section>
 

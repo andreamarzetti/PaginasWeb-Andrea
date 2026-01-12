@@ -5,34 +5,34 @@ import Button from "react-bootstrap/Button";
 
 export default function Home() {
   const carouselImages = [
-    { src: "/src/assets/torta1.jpg", alt: "Torta 1", caption: "Torta de Frutilla" },
-    { src: "/src/assets/torta2.jpg", alt: "Torta 2", caption: "Torta Oreo" },
-    { src: "/src/assets/torta3.jpg", alt: "Torta 3", caption: "Cheesecake" },
+    { src: "/assets/torta1.jpg", alt: "Torta 1", caption: "Torta de Frutilla" },
+    { src: "/assets/torta2.jpg", alt: "Torta 2", caption: "Torta Oreo" },
+    { src: "/assets/torta3.jpg", alt: "Torta 3", caption: "Cheesecake" },
   ];
 
   const products = [
     {
       slug: "torta-limepie",
       title: "Tarta Lime Pie",
-      image: "/src/assets/torta4.jpg",
+      image: "/assets/torta4.jpg",
      
     },
     {
       slug: "torta-rogel",
       title: "Torta Rogel",
-      image: "/src/assets/torta5.jpg",
+      image: "/assets/torta5.jpg",
 
     },
     {
       slug: "tiramisu",
       title: "Tiramisu",
-      image: "/src/assets/torta6.jpg",
+      image: "/assets/torta6.jpg",
    
     },
     {
       slug: "torta-selva-negra",
       title: "Torta Selva Negra",
-      image: "/src/assets/torta7.jpg",
+      image: "/assets/torta7.jpg",
      
     },
   ];

@@ -30,7 +30,7 @@ function App() {
   className="whatsapp-float"
 >
   <img
-    src="/src/assets/logowpp.png"
+    src="/assets/logowpp.png"
     alt="WhatsApp"
     className="whatsapp-icon"
   />

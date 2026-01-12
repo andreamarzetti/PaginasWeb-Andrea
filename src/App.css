@@ -1085,3 +1085,40 @@ body { color:var(--text); line-height:1.6; }
   width: 70%;
 }
 
+.nosotros-hero {
+  min-height: 300px;
+  background-image: url("/assets/torta1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  color: white;
+  position: relative;
+}
+.nosotros-hero {
+  min-height: 300px;
+  background-image: url("/assets/torta2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  color: rgb(240, 239, 239);
+  position: relative;
+}
+.nosotros-hero h1,
+.nosotros-hero p {
+  position: relative;
+  z-index: 1;
+}
